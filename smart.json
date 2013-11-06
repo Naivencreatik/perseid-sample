@@ -1,0 +1,13 @@
+{
+  "packages": {
+    "perseid": { 
+        "path": "../perseid"
+    },
+    "perseid-gallery": { 
+        "path": "../perseid-gallery"
+    },
+    "perseid-blog": { 
+        "path": "../perseid-blog"
+    }
+  }
+}
