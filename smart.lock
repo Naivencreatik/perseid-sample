@@ -28,9 +28,7 @@
         "commit": "4e1ee0581d68bff422a915dacb0bd30eae10fe08"
       },
       "smartfile": {
-        "git": "https://github.com/sylvaingi/meteor-smartfile.git",
-        "tag": "v0.0.3",
-        "commit": "937b29f05401d592080b1f51e5239f6d58d97d9e"
+        "path": "../meteor-smartfile"
       },
       "moment": {
         "git": "https://github.com/acreeger/meteor-moment.git",

@@ -1,13 +1,13 @@
 {
   "packages": {
     "perseid": { 
-        "git": "git@github.com:Naivencreatik/perseid.git"
+        "path": "../perseid"
     },
     "perseid-gallery": { 
-        "git": "git@github.com:Naivencreatik/perseid-gallery.git"
+        "path": "../perseid-gallery"
     },
     "perseid-blog": { 
-        "git": "git@github.com:Naivencreatik/perseid-blog.git"
+        "path": "../perseid-blog"
     }
   }
 }
