@@ -3,3 +3,7 @@ Router.map(function(){
         path: "/"
     });
 });
+
+Router.before(function(){
+    this.render("nav", {to: "nav"});
+});
