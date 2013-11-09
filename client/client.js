@@ -1,9 +1,9 @@
-Router.map(function(){
+Router.map(function() {
     this.route("landing", {
         path: "/"
     });
 });
 
-Router.before(function(){
+Router.before(function() {
     this.render("nav", {to: "nav"});
 });
